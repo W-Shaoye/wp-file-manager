@@ -1,6 +1,6 @@
 
 
-
+image![https://github.com/W-Shaoye/wp-file-manager/blob/main/image.png]
 
 
 Although the code checks for an administrator login on line 54, the API route remains open to everyone on lines 58 and 64 because the permission_callback is set to __return_true.
